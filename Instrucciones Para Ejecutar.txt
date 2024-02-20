@@ -1,0 +1,13 @@
+---------------------------------------------
+---------------------------------------------
+1._ Subir la base de datos adjunto en el rar (tiendaropa).
+2._ Abrir el proyecto en Netbeans, tiene todas las librerias dentro del mismo.
+3._ Dirigirse a la clase Conexion, dentro de la carpeta config ,mantener o
+ editar el puerto usado para MYSQL (se uso el PORT:33065). 
+4._ Ejecutar el Controlador: LoginController.java.
+5._ Se inicia el pagina web. 
+6._ PARA CLIENTES/ USUARIO:Cris123 CLAVE:1234
+7._ PARA ADMINISTRADORES / USUARIO: admin10 CLAVE:admin
+.............................................................................
+...........................................................................
+.............................................................................
